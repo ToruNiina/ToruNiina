@@ -1,16 +1,16 @@
-### Hi there 👋
+|page|lang|link|
+|:---|:---|:---|
+|Personal Page/Blog|En/Ja|https://toruniina.github.io/|
+|Hatena Blog|Ja|[tniina](https://in-neuro.hatenablog.com/)|
+|Twitter|mostly Ja|[ToruNiina](https://twitter.com/ToruNiina)|
+|Qiita|Ja|[niina](https://qiita.com/niina)|
+|Google Scholar|En|[Toru Niina](https://scholar.google.com/citations?user=aVB0npoAAAAJ&hl=ja)|
 
-<!--
-**ToruNiina/ToruNiina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=ToruNiina&show_icons=true&include_all_commits=true) -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToruNiina&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToruNiina&layout=compact" />
+</a>
