@@ -10,7 +10,7 @@
 <tr>
 <td align="left">Personal Page/Blog</td>
 <td align="left">En/Ja</td>
-<td align="left"><a href="https://toruniina.github.io/" rel="nofollow">github.io</a></td>
+<td align="left"><a href="https://toruniina.github.io/" rel="nofollow">En</a>/<a href="https://toruniina.github.io/ja/">Ja</a></td>
 </tr>
 <tr>
 <td align="left">Hatena Blog</td>
